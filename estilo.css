@@ -5,16 +5,16 @@
 .MOM {
     color: rgb(255, 255, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 1.25cm;
+    font-size: 1.25rem;
     font-weight: 500;
 }
 
 .TITULO {
     border: 5px dashed rgb(255, 255, 255);
-    width: 22cm;
+    width: 22rem;
     float: auto;
-    margin-left: 0.5cm;
-    margin-top: 1cm;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
 }
 
 body {
@@ -24,10 +24,10 @@ body {
 .EU {
     border: 5px solid white;
     float: right;
-    width: 10cm;
-    margin-top: -0.1cm;
-    margin-right: 0.5cm;
-    margin-top: 0.01cm;
+    width: 10rem;
+    margin-top: -0.1rem;
+    margin-right: 0.5rem;
+    margin-top: 0.01rem;
 
 }
 
@@ -41,17 +41,17 @@ h2 {
 }
 
 .EU:hover {
-    background: #15ff0067;
-    font-size: 1cm;
+    background: #4400ff;
+    font-size: 1rem;
     filter: blur(3px);
-    transition: all 4s ease-in;
+    transition: all 1s ease-in;
 }
 
 .a {
     border: 5px solid rgb(255, 255, 255);
-    width: 22cm;
+    width: 22rem;
     float: auto;
-    margin-left: 0.5cm;
+    margin-left: 0.5rem;
     margin-top: 0.2rem;
 }
 
@@ -205,13 +205,13 @@ h2 {
 
 .content {
     float: left;
-    margin-right: 12cm;
-    margin-left: .5cm;
+    margin-right: 12rem;
+    margin-left: .5rem;
     border: 5px solid rgb(255, 255, 255);
-    width: 22cm;
+    width: 22rem;
     float: auto;
-    margin-left: 0.5cm;
-    margin-top: .1cm;
+    margin-left: 0.5rem;
+    margin-top: .1rem;
 }
 
 .conte {
@@ -224,7 +224,7 @@ h2 {
 .maa {
     float: right;
     margin: 15px;
-    width: 7cm;
+    width: 7rem;
 }
 
 .tipo {
