@@ -231,3 +231,10 @@ h2 {
     color: white;
     margin: 10px;
 }
+
+
+@media screen and (max-width:800px){
+    .EU
+        flex: column;
+    }
+}
